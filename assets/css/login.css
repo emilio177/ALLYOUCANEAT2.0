@@ -1,0 +1,9 @@
+body{
+    background-image: url('../images/entrada.jpg');  
+    background-size: 1600px;
+}
+
+
+.login-overlay{
+    background-color: #526D82;
+}
